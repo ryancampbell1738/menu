@@ -1,0 +1,10 @@
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\bin\Debug\menuIdeas.exe.config
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\bin\Debug\menuIdeas.exe
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\bin\Debug\menuIdeas.pdb
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\obj\Debug\menuIdeas.csproj.AssemblyReference.cache
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\obj\Debug\menuIdeas.Form1.resources
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\obj\Debug\menuIdeas.Properties.Resources.resources
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\obj\Debug\menuIdeas.csproj.GenerateResource.cache
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\obj\Debug\menuIdeas.csproj.CoreCompileInputs.cache
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\obj\Debug\menuIdeas.exe
+C:\Users\30004700\source\repos\menuIdeas\menuIdeas\obj\Debug\menuIdeas.pdb
